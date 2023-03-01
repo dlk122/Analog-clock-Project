@@ -1,3 +1,5 @@
 # Analog-clock-Project
 
-I have Created a clock eith hour , minute and second jand usng pure html , css  and javascript.
+I used pure HTML, CSS, and javascript to create a clock with an hour, minute, and second hand.
+
+Take a look at live version :
