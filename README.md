@@ -2,4 +2,4 @@
 
 I used pure HTML, CSS, and javascript to create a clock with an hour, minute, and second hand.
 
-Take a look at live version :
+Take a look at live version : https://dlk122.github.io/Analog-clock-Project/
